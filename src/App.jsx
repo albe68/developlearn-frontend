@@ -4,11 +4,11 @@ import './index.css'
 
 function App() {
   return (
-    <div className='w-[100vh] h-[70vh] '>
+    <div className='w-[100vh] h-[80vh] '>
 
 
     <h1 className="text-[250px]  font-bold text-blue-500">
-      Developlearn
+      Developlearn 
     </h1>
 
 
