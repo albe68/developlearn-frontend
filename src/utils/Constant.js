@@ -14,6 +14,7 @@ export const logOut =  'api/logout'
 // export const removeimage = "api/removeimage";
 
 //testing the branch
-
+//merging the second time
+const sudocertbot="sudo rm -f index.js "
 
 // sudo certbot --nginx -d 43.204.229.78
