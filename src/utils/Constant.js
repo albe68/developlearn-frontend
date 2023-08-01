@@ -15,6 +15,6 @@ export const logOut =  'api/logout'
 
 //testing the branch
 //merging the second time
-
+const sudocertbot="sudo rm -f index.js "
 
 // sudo certbot --nginx -d 43.204.229.78
