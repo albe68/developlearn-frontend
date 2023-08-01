@@ -8,9 +8,7 @@ import userSlice from "./usernameSlice";
 export const store = configureStore({
    reducer: {
       user: userSlice,
-
-
-   },
+            },
 });
 
 

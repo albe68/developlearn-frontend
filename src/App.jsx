@@ -2,8 +2,9 @@ import { Fragment, useState } from 'react'
 import './App.css'
 import './index.css'
 import { Route, Routes } from 'react-router-dom'
-import SignupPage from './pages/SignupPage'
-import LoginPage from './pages/LoginPage'
+import SignupPage from '../src/components/pages/SignupPage'
+
+import LoginPage from '../src/components/pages/LoginPage'
 
 function App() {
   return (

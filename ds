@@ -1,0 +1,55 @@
+[33mcommit 829356ea3dcecf7253ee572a280887d9166cc9f1[m[33m ([m[1;36mHEAD -> [m[1;32mnew_branch[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Merge: b9c39fc df9b9d6
+Author: NithinKrishna10 <114385325+NithinKrishna10@users.noreply.github.com>
+Date:   Sat Jul 29 00:21:14 2023 +0530
+
+    Merge pull request #2 from NithinKrishna10/main
+    
+    auth
+
+[33mcommit df9b9d67ee4834ee76dc779e3514ab6ab2d34ac8[m
+Author: Nithin <nithin3119@gmail.com>
+Date:   Sat Jul 29 00:17:39 2023 +0530
+
+    auth
+    
+    login&signup done
+
+[33mcommit b9c39fca5953d7673e0755cbf5e2cb48d87b1c98[m
+Merge: 482291f 377b952
+Author: NithinKrishna10 <114385325+NithinKrishna10@users.noreply.github.com>
+Date:   Fri Jul 28 23:04:03 2023 +0530
+
+    Merge pull request #1 from NithinKrishna10/main
+    
+    Hi Test
+
+[33mcommit 377b9527d75ff5e4e3efd693313ed8cce1c6e988[m
+Author: Nithin <nithin3119@gmail.com>
+Date:   Fri Jul 28 23:01:03 2023 +0530
+
+    test commit git
+
+[33mcommit 5d287284df7e1b3a0fbef245091269e7afc7542b[m
+Author: Nithin <nithin3119@gmail.com>
+Date:   Fri Jul 28 22:59:04 2023 +0530
+
+    test commit
+
+[33mcommit 482291f35570d69d9c5fdffde8d427c7a9c42176[m
+Author: Albert Remalin Raja <105366317+albe68@users.noreply.github.com>
+Date:   Fri Jul 28 17:43:49 2023 +0530
+
+    Update README.md
+
+[33mcommit ff414011ac376e4fd632362ceec529ee07e7a782[m
+Author: albe68 <albertpaulus836@gmail.com>
+Date:   Fri Jul 28 17:31:02 2023 +0530
+
+    tailwind-setup
+
+[33mcommit 17594339e1271aae4a560ea0b909e69123ac7e77[m
+Author: albe68 <albertpaulus836@gmail.com>
+Date:   Fri Jul 28 17:18:06 2023 +0530
+
+    first commit
